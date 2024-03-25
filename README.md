@@ -18,7 +18,6 @@
 
 <p>
   <a href="#-getting-started-">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-concepts-">Concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-versioning-">Versioning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-troubleshooting-">Troubleshooting</a>
 </p>
@@ -27,7 +26,7 @@
 
 ---
 
-## ➤ Getting Started
+## ➤ Getting Started <a name="#-getting-started"></a>
 
 ### Setup
 
@@ -66,19 +65,19 @@ nix-shell
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ➤ Versioning
+## ➤ Versioning <a name="#-versioning"></a>
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ➤ Troubleshooting
+## ➤ Troubleshooting <a name="#-troubleshooting"></a>
 
 If you have any problems, [open an issue in this project](https://github.com/lpsm-dev/docker-crypto-miner/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ➤ Show your support
+## ➤ Show your support <a name="-show-your-support"></a>
 
 <div align="center">
 
