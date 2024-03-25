@@ -8,40 +8,40 @@ Escolher a estrutura de dados apropriada e de acordo com o seu cenário de probl
 
 ## Array
 
-### Overview
+#### Overview
 
-### Advantages
+#### Advantages
 
-### Disadvantages
+#### Disadvantages
 
 ## Binary Tree
 
-### Overview
+#### Overview
 
-### Advantages
+#### Advantages
 
-### Disadvantages
+#### Disadvantages
 
 ## Linked List
 
-### Overview
+#### Overview
 
-### Advantages
+#### Advantages
 
-### Disadvantages
+#### Disadvantages
 
 ## Queue
 
-### Overview
+#### Overview
 
-### Advantages
+#### Advantages
 
-### Disadvantages
+#### Disadvantages
 
 ## Stack
 
-### Overview
+#### Overview
 
-### Advantages
+#### Advantages
 
-### Disadvantages
+#### Disadvantages
