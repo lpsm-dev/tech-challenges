@@ -1,8 +1,8 @@
 # What is?
 
-As estruturas de dados são formas utilizadas para organizar, gerenciar e armazenar dados de forma eficiente. São essenciais para criar algoritmos rápidos e poderosos, ajudando a gerir e a processar dados de forma eficiente.
+Estrutura de dados é a maneira que utilizamos para organizar, gerenciar e armazenar dados de forma eficiente no mundo da computação. Elas são essenciais para criar algoritmos rápidos e poderosos, ajudando a gerir e a processar dados de forma otimizada.
 
-Escolher a estrutura de dados apropriada e de acordo com o seu cenário de problema, é crucial para a eficácia e eficiência do seu algoritmo, impactando diretamente no desempenho da sua aplicação.
+Saber escolher a estrutura de dados certa pro teu problema faz toda a diferença pra que seu algoritmo mande bem e faça sua aplicação voar. Então, dar uma boa olhada nas estruturas que temos por aí, sacando o que cada uma tem de bom e ruim, com certeza vai te colocar na frente da galera no mercado de trabalho.
 
 # Types
 
