@@ -14,7 +14,7 @@
 
 <img alt="gif-about" src="https://github.com/lpsm-dev/lpsm-dev/blob/main/.github/assets/gif-about.gif" width="225"/>
 
-<p>The idea is to bring together things I've learned along my IT journey</p>
+<p>The idea is to bring together things I've learned and done along my IT journey</p>
 
 <p>
   <a href="#-getting-started-">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
