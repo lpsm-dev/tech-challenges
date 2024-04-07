@@ -32,8 +32,18 @@ repos:
   hooks:
   - id: yesqa
 - repo: https://github.com/commitizen-tools/commitizen
-  rev: v3.20.0
+  rev: v3.21.3
   hooks:
   - id: commitizen
   - id: commitizen-branch
     stages: [push]
+- repo: https://github.com/gitleaks/gitleaks
+  rev: v8.18.2
+  hooks:
+  - id: gitleaks-system
+    args: [--verbose]
+- repo: https://github.com/adrienverge/yamllint.git
+  rev: v1.35.1
+  hooks:
+  - id: yamllint
+    args: [--strict, -c=.github/config/.yamllint.yaml]
