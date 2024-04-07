@@ -15,9 +15,7 @@ for element in range(0, 10000):
         if count < 0:
           correct = False
           break
-      if count != 0:
-        correct = False
-      if correct:
+      if count == 0:
         print('correct')
       else:
         print('incorrect')
