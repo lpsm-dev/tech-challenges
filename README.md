@@ -18,6 +18,7 @@
 
 <p>
   <a href="#-getting-started-">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hubs">Hubs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-versioning-">Versioning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-troubleshooting-">Troubleshooting</a>
 </p>
@@ -65,7 +66,7 @@ nix-shell
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ➤ Index <a name="#-index"></a>
+## ➤ Hubs <a name="#-hubs"></a>
 
 - [AI](./hubs/ai/)
 - [Blockchain](./hubs/blockchain/)
