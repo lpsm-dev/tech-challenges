@@ -4,6 +4,6 @@
     "gitleaks@latest",
     "go-task@latest",
     "pre-commit@latest",
-    "yamllint@latest"
+    "yamllint@1.37.1"
   ]
 }
