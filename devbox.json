@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetpack-io/devbox/0.10.3/.schema/devbox.schema.json",
   "packages": [
-    "gitleaks@latest",
+    "gitleaks@7.6.1",
     "go-task@latest",
     "pre-commit@latest",
     "yamllint@latest"
